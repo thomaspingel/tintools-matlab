@@ -7,6 +7,7 @@ TIN creation takes two steps. First, the points from the raster are selected usi
 
 
 Sample code: 
+
 % Create image 
 ZI = peaks(40); 
 
